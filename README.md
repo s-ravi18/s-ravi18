@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my github repo. 
+
+What do I love?
+🐍 Python
+🤖 Machine Learning, Deep Learning, Artificial Intelligence
+🧮 Sudoku
+
 <!--
 **s-ravi18/s-ravi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
